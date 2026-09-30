@@ -43,7 +43,7 @@ Chaque exercice doit être accompagné d'une fiche `MESURE.md` remplie par l'ét
 3.  **Économie de ressources (Green Code)**
 4.  **Impact Éthique**
 
-👉 Voir le modèle : [ressources/templates/MESURE.md](ressources/templates/MESURE.md)
+👉 Voir le modèle à copier : [01-logique-et-donnees/MESURE.md](01-logique-et-donnees/MESURE.md)
 
 ---
 
