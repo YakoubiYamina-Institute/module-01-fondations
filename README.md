@@ -1,6 +1,12 @@
 # 🟧 Module 01 : Fondations & Éthique du Code
 ### "La Juste Mesure" (Al-Mizan)
 
+![Statut](https://img.shields.io/badge/Statut-En%20Cours-orange)
+![Licence](https://img.shields.io/badge/Licence-CC%20BY%204.0-green)
+![Souveraineté](https://img.shields.io/badge/Souveraineté-100%25%20Suisse-red)
+![Niveau](https://img.shields.io/badge/Niveau-Débutant-blue)
+![Éthique](https://img.shields.io/badge/Éthique-Islamique_%26_Universelle-purple)
+
 > "Apprendre à coder avec éthique, précision et intention (Niyyah)."
 
 **Organisation :** Institut Yakoubi Yamina  
