@@ -29,12 +29,10 @@ Nous appliquons ici la rigueur du métrologue :
 ## 📂 Structure du Cours
 Ce dépôt est organisé par semaines thématiques :
 
-- [**Semaine 1 : Logique & Vérité**](module-01-fondations/01-logique-et-donnees/) (Python)
-- [**Semaine 2 : Précision du Langage**](module-01-fondations/02-python-precis/) (Python Core)
-- [**Semaine 3 : Ordre & Structure**](module-01-fondations/03-structures-ordonnees/) (Structures de données)
-- [**Semaine 4 : Audit & Amanah**](module-01-fondations/04-audit-et-ethique/) (Git & Sécurité)
-
-*(Les liens seront actifs une fois les dossiers créés)*
+- [**Semaine 1 : Logique & Vérité**](01-logique-et-donnees/) (Python)
+- [**Semaine 2 : Précision du Langage**](02-python-precis/) (Python Core)
+- [**Semaine 3 : Ordre & Structure**](03-structures-ordonnees/) (Structures de données)
+- [**Semaine 4 : Audit & Amanah**](04-audit-et-ethique/) (Git & Sécurité)
 
 ---
 
